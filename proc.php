@@ -1,3 +1,3 @@
 <?php
-    echo $_GET["value"]
+    $var val = $_GET["value"]
 ?>
